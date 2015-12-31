@@ -1,0 +1,51 @@
+{
+  "name": "pagina_web_oficial",
+  "version": "1.0.0",
+  "description": "Pagina Web Oficial de la Municipalidad Distrital de San Andres - Pisco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfcarbonell/MDSA---Pagina-Web-Oficial.git"
+  },
+  "keywords": [
+    "pagina",
+    "web",
+    "portal",
+    "municipalidad",
+    "municipio",
+    "ditrito",
+    "distrital"
+  ],
+  "author": "Roberto Gian Franco Carbonell Saravia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gfcarbonell/MDSA---Pagina-Web-Oficial/issues"
+  },
+  "homepage": "https://github.com/gfcarbonell/MDSA---Pagina-Web-Oficial#readme",
+  "dependencies": {
+    "backbone": "^1.2.3",
+    "handlebar": "^1.0.0",
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-changed": "^1.3.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.0.0",
+    "gulp-htmlmin": "^1.3.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-minify-html": "^1.0.5",
+    "gulp-strip-debug": "^1.1.0",
+    "gulp-stylus": "^2.1.2",
+    "gulp-uglify": "^1.5.1",
+    "gulp-watch": "^4.3.5",
+    "nib": "^1.1.0",
+    "stylus": "^0.53.0"
+  }
+}
